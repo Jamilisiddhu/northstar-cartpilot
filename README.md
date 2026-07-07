@@ -7,3 +7,4 @@ Checkout reliability service for Northstar Commerce.
 
 > Ops Note: Monitor
 checkout latency daily
+> QA Checklist: run smoke + regression
